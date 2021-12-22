@@ -1,19 +1,24 @@
-### Hi there 👋
+## 안녕하세요 이준현 입니다. 🏝
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunThatIsMyName)](https://github.com/anuraghazra/github-readme-stats)
+I like learning📖, creating👨🏻‍💻, exploring🏞 , camping⛺️ and <br />
+thinking about how to make things better💥 <br />
 
-<!--
-**GunThatIsMyName/GunThatIsMyName** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I use these to make stuff
 
-Here are some ideas to get you started:
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="React" src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=red"/> 
+
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"/> 
+
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23323330.svg?&style=for-the-badge&logo=SASS&logoColor=hotpink"/>  
+
+
+#### You can also find me here on the codepen / freecodcamp
+
+[<img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie)
+[<img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodcamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white&color=red"/>](https://www.freecodecamp.org/junhyunLee)
+
