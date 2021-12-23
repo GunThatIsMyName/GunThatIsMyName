@@ -11,7 +11,7 @@ thinking about how to make things better💥 <br />
 
 #### You can also find me here on the codepen / freecodcamp
 
-[<img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/anniebombanie)
+[<img alt="CodePen" src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white/>](https://codesandbox.io/u/Jooning)
 [<img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodcamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white&color=red"/>](https://www.freecodecamp.org/junhyunLee)
 
 ## resume
